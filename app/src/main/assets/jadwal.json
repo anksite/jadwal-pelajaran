@@ -1,0 +1,103 @@
+[
+  {
+    "day": "2",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "07.01.03",
+    "mapel": "HARDWARE / SOFTWARE I",
+    "guru": "Uyock Anggoro Saputro, M.Kom"
+  },
+  {
+    "day": "2",
+    "start": "08.50",
+    "end": "10.30",
+    "room": "05.04.05",
+    "mapel": "KOMUNIKASI DATA",
+    "guru": "Rico Agung F, S.Kom"
+  },
+  {
+    "day": "3",
+    "start": "13.20",
+    "end": "15.00",
+    "room": "L 7.4.1",
+    "mapel": "PEMROGRAMAN (Praktikum)",
+    "guru": "Kamarudin, M.Kom"
+  },
+  {
+    "day": "3",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "07.01.02",
+    "mapel": "BAHASA INGGRIS II",
+    "guru": "Hermenegildus Agus Wibowo, S.sas, M.Hum"
+  },
+  {
+    "day": "4",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "L 7.4.3",
+    "mapel": "HARDWARE / SOFTWARE I (Praktikum)",
+    "guru": "Uyock Anggoro Saputro, M.Kom"
+  },
+  {
+    "day": "4",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "05.02.01",
+    "mapel": "STRUKTUR DATA",
+    "guru": "Mulia Sulistiyono, M.Kom"
+  },
+  {
+    "day": "5",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "L 7.3.2",
+    "mapel": "STRUKTUR DATA (Praktikum)",
+    "guru": "Mulia Sulistiyono, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "04.04.05",
+    "mapel": "SISTEM OPERASI",
+    "guru": "Hafiz Ridha Pramudita, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "08.50",
+    "end": "10.30",
+    "room": "04.04.04",
+    "mapel": "ORGANISASI & ARSITEKTUR KOMPUTER",
+    "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
+  },
+  {
+    "day": "6",
+    "start": "13.20",
+    "end": "15.00",
+    "room": "L 7.4.2",
+    "mapel": "SISTEM OPERASI (Praktikum)",
+    "guru": "Hafiz Ridha Pramudita, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "L 7.4.3",
+    "mapel": "KOMUNIKASI DATA (Praktikum)",
+    "guru": "Rico Agung F, S.Kom"
+  }
+]
+
+
+	/*SENIN   2	07.00 - 08.40	07.01.03	ST123 - HARDWARE/ SOFTWARE I (Teori)              Uyock Anggoro Saputro, M.Kom
+	SENIN   2	08.50 - 10.30	05.04.05	ST014 - KOMUNIKASI DATA (Teori)                   Rico Agung F, S.Kom
+	SELASA  3	13.20 - 15.00	L 7.4.1	    ST021 - PEMROGRAMAN (Praktikum)                   Kamarudin, M.Kom
+	SELASA  3	15.30 - 17.10	07.01.02	ST016 - BAHASA INGGRIS II (Teori)                 Hermenegildus Agus Wibowo, S.sas, M.Hum
+	RABU    4	07.00 - 08.40	L 7.4.3	    ST123 - HARDWARE/ SOFTWARE I (Praktikum)          Uyock Anggoro Saputro, M.Kom
+	RABU    4	15.30 - 17.10	05.02.01	ST015 - STRUKTUR DATA (Teori)                     Mulia Sulistiyono, M.Kom
+	KAMIS   5	07.00 - 08.40	L 7.3.2	    ST015 - STRUKTUR DATA (Praktikum)                 Mulia Sulistiyono, M.Kom
+	JUMAT   6	07.00 - 08.40	04.04.05	ST019 - SISTEM OPERASI (Teori)                    Hafiz Ridha Pramudita, M.Kom
+	JUMAT   6	08.50 - 10.30	04.04.04	ST094 - ORGANISASI & ARSITEKTUR KOMPUTER (Teori)  Arifiyanto Hadinegoro, S.Kom, MT
+	JUMAT   6	13.20 - 15.00	L 7.4.2	    ST019 - SISTEM OPERASI (Praktikum)                Hafiz Ridha Pramudita, M.Kom
+	JUMAT   6	15.30 - 17.10	L 7.4.3	    ST014 - KOMUNIKASI DATA (Praktikum)               Rico Agung F, S.Kom*/
